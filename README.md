@@ -24,4 +24,3 @@ Showcases projects, skills, and achievements in a clean and professional design.
 
 ---
 
-## 📂 Project Structure
