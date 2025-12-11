@@ -1,16 +1,14 @@
 # 🌐 Portfolio Website
 
-A modern, responsive personal portfolio website built with **HTML, CSS, and JavaScript**.  
+A modern,  personal portfolio website built with **HTML, CSS, and JavaScript**.  
 Showcases projects, skills, and achievements in a clean and professional design.
 
 ---
 
 ## 🚀 Features
-- Responsive design for all devices (desktop, tablet, mobile)  
 - Smooth animations and transitions  
 - Interactive navigation and project showcase  
 - Contact form integration  
-- SEO‑friendly structure  
 
 ---
 
